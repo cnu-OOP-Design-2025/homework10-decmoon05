@@ -90,3 +90,5 @@ public:
     bool empty() const ;    // 현재 vector가 empty인지 확인하는 함수 구현
 
 };
+
+#include "MyVector.cpp"
